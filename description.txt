@@ -1,0 +1,1 @@
+Water tank level monitor is an ESP32 learning project using waterproof ultrasonic module with TTL trigger/echo; echo level shifter. It measures sensor-to-water distance and publishes validated telemetry over Wi-Fi and TLS MQTT for water management learners. Includes calibration, source code, sensor checks, sample data, provisioning, field guidance.
